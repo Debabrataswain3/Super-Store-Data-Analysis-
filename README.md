@@ -21,7 +21,7 @@ The goal is to uncover meaningful insights into **sales performance**, **profit 
 
 * **Dataset Name:** Superstore_Sales
 * **File Type:** Excel/CSV
-* **Dataset Link:** [Superstore Dataset (Kaggle)]()
+* **Dataset Link:** [Superstore Dataset (Kaggle)](https://github.com/Debabrataswain3/Super-Store-Data-Analysis-/blob/main/Superstore.csv)
 * **Columns:**
 
   * Order Date
