@@ -80,7 +80,7 @@ The goal is to uncover meaningful insights into **sales performance**, **profit 
 
 ## 📊 Dashboard Link
 
-👉 [View Power BI Dashboard (Upload Link or Screenshot)](https://app.powerbi.com/)
+👉 [View Power BI Dashboard ](https://github.com/Debabrataswain3/Super-Store-Data-Analysis-/blob/main/Screenshot%202025-10-31%20200249.png)
 *(Add your published Power BI link or GitHub screenshot folder here)*
 
 ---
